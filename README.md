@@ -1,6 +1,6 @@
 # 389COM-Online-Learning [Tan Shu Xuan]
 
-Branching and Merge in Git
+Week 1 : Branching and Merge in Git
 
 The most important thing in Version Control is Branching and Merge (which you must know how to apply in real life).
 
