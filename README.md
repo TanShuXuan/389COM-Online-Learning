@@ -1,4 +1,4 @@
-# 389COM-Online-Learning
+# 389COM-Online-Learning [Tan Shu Xuan]
 
 Branching and Merge in Git
 
